@@ -1,0 +1,22 @@
+{
+  "name": "goondoribot",
+  "version": "0.1.0",
+  "description": "Goondori Bot for Twitter",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/738/goondoribot.git"
+  },
+  "author": "Jon Jee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/738/goondoribot/issues"
+  },
+  "homepage": "https://github.com/738/goondoribot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
